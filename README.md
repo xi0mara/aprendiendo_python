@@ -50,3 +50,9 @@ Es una caja o lugar donde puedo guardar objetos: Números, textos, etc. Además,
 - < Compara dos variables/valores, devuelve *verdadero si el primero es menor que* el segundo.
 - *>=*  Compara dos variables/valores, devuelve *verdadero si el primero es mayor o igual que* el segundo.
 - <= Compara dos variables/valores, devuelve *verdadero si el primero es menor o igual que* el segundo.
+
+
+ Desde Python 3 es posible usar el & como and y para utilizar el operador or se puede con el carácter |. Ejemplo: 
+> Trabaja & es_estudiante
+>>
+> Trabaja | es_estudiante
