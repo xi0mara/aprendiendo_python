@@ -39,3 +39,14 @@ Es una caja o lugar donde puedo guardar objetos: Números, textos, etc. Además,
 ## Tipos de datos
 ![image](https://user-images.githubusercontent.com/21746170/130538900-bde691f3-a98a-4e2d-9734-7a2c1adcf587.png)
 
+## Operadores lógicos
+- **and** devuelve *Verdadero* si las todas las variables que estoy comparando son Verdaderas
+- **or** devuelve *verdadero* si al menos una de las variables que estoy comparando es verdadera.
+- **not**  para invertir el valor booleano.
+## Operadores de comparación
+- == Compara dos variables/valores, y devuelve *verdadero si son iguales* y falso si no lo son
+- != Compara dos variables/valores, devuelve *verdadero si son diferentes* o falso de lo contrario
+- *>* Compara dos variables/valores, devuelve *verdadero si el primero es mayor que* el segundo.
+- < Compara dos variables/valores, devuelve *verdadero si el primero es menor que* el segundo.
+- *>=*  Compara dos variables/valores, devuelve *verdadero si el primero es mayor o igual que* el segundo.
+- <= Compara dos variables/valores, devuelve *verdadero si el primero es menor o igual que* el segundo.
