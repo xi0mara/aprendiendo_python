@@ -27,3 +27,6 @@ En Python los operadores aritméticos son los que nos ayudan a hacer las distint
 - 👀 **OPERADORES IN SITU**: Te permite escribir código como **"X = X + 3"** de manera más concisa como **"X += 3"** ( Lo mismo usando - , * , / y % )
   - Ejemplo: ![image](https://user-images.githubusercontent.com/21746170/130534914-e5187a8f-3aeb-4583-84b5-3730f3ecb038.png)
 
+## ¿Qué es una variable?
+Es una caja o lugar donde puedo guardar objetos: Números, textos, etc. Además, para asignar una variable debes usar siempre el signo **=**
+- Identificador de mi varibale: Puedes usar guiones abajo, números y letras. Pero NO puedes comenzar con un número y debe estar siempre en minúsculas. Ejemplo:  user = "James"
