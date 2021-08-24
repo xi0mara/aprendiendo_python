@@ -30,3 +30,12 @@ En Python los operadores aritméticos son los que nos ayudan a hacer las distint
 ## ¿Qué es una variable?
 Es una caja o lugar donde puedo guardar objetos: Números, textos, etc. Además, para asignar una variable debes usar siempre el signo **=**
 - Identificador de mi varibale: Puedes usar guiones abajo, números y letras. Pero NO puedes comenzar con un número y debe estar siempre en minúsculas. Ejemplo:  user = "James"
+
+## ¿Cómo inicio Python desde la consola?
+![image](https://user-images.githubusercontent.com/21746170/130538286-316869a2-ebec-4b5f-8aaf-eb4cded53561.png)
+- En windows debes iniciar agregando : py
+- En linux debes iniciar agregando: python3
+
+## Tipos de datos
+![image](https://user-images.githubusercontent.com/21746170/130538900-bde691f3-a98a-4e2d-9734-7a2c1adcf587.png)
+
