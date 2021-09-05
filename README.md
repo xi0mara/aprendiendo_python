@@ -25,7 +25,13 @@ En Python los operadores aritméticos son los que nos ayudan a hacer las distint
 - 📑 **Python respeta las reglas matemáticas, es decir: 5 + 5 * 2 ⇒ 15**  (PEMDAS: parentesis, exponentes, multiplicación, división, adición y sustracción conforme aparezcan)
 
 - 👀 **OPERADORES IN SITU**: Te permite escribir código como **"X = X + 3"** de manera más concisa como **"X += 3"** ( Lo mismo usando - , * , / y % )
-  - Ejemplo: ![image](https://user-images.githubusercontent.com/21746170/130534914-e5187a8f-3aeb-4583-84b5-3730f3ecb038.png)
+    <pre>
+    <span class="pl-c">## Ejemplo</span>
+    <span class="pl-s1">x</span> <span class="pl-c1">=</span> <span class="pl-c1">4</span>
+    <span class="pl-s1">x</span> <span class="pl-c1">*=</span> <span class="pl-c1">3</span>
+    <span class="pl-en">print</span>(<span class="pl-s1">x</span>)
+    <span class="pl-s1">12</span>
+    </pre>
 
 ## ¿Qué es una variable?
 Es una caja o lugar donde puedo guardar objetos: Números, textos, etc. Además, para asignar una variable debes usar siempre el signo **=**
@@ -52,7 +58,8 @@ Es una caja o lugar donde puedo guardar objetos: Números, textos, etc. Además,
 - <= Compara dos variables/valores, devuelve *verdadero si el primero es menor o igual que* el segundo.
 
 
- Desde Python 3 es posible usar el & como and y para utilizar el operador or se puede con el carácter |. Ejemplo: 
-> Trabaja & es_estudiante
->>
-> Trabaja | es_estudiante
+ Desde Python 3 es posible usar el **&** como *and* y para utilizar el operador *or* se puede con el carácter **|** . Ejemplo: 
+<pre>
+   <span class="pl-s1">Trabaja & es_estudiante</span> 
+   <span class="pl-en">Trabaja | es_estudiante</span>
+</pre>
