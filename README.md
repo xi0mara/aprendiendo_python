@@ -27,6 +27,7 @@ En Python los operadores aritméticos son los que nos ayudan a hacer las distint
 - 👀 **OPERADORES IN SITU**: Te permite escribir código como **"X = X + 3"** de manera más concisa como **"X += 3"** ( Lo mismo usando - , * , / y % )
     <pre>
         <span class="pl-c">## Ejemplo</span>
+        
         <span class="pl-s1">x</span> <span class="pl-c1">=</span> <span class="pl-c1">4</span>
         <span class="pl-s1">x</span> <span class="pl-c1">*=</span> <span class="pl-c1">3</span>
         <span class="pl-en">print</span>(<span class="pl-s1">x</span>)
@@ -38,8 +39,9 @@ Es una caja o lugar donde puedo guardar objetos: Números, textos, etc. Además,
 - Identificador de mi varibale: Puedes usar guiones abajo, números y letras. Pero NO puedes comenzar con un número y debe estar siempre en minúsculas. 
     <pre>
         <span class="pl-c">## Ejemplo</span>
+        
         <span class="pl-s1">user</span> <span class="pl-c1">=</span> <span class="pl-c1">"James"</span>
-        <span class="pl-s1">y</span> <span class="pl-c1">*=</span> <span class="pl-c1">3</span>
+        <span class="pl-s1">y</span> <span class="pl-c1">=</span> <span class="pl-c1">3</span>
     </pre>
 
 ## ¿Cómo inicio Python desde la consola?
