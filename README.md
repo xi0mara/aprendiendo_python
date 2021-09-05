@@ -26,16 +26,21 @@ En Python los operadores aritméticos son los que nos ayudan a hacer las distint
 
 - 👀 **OPERADORES IN SITU**: Te permite escribir código como **"X = X + 3"** de manera más concisa como **"X += 3"** ( Lo mismo usando - , * , / y % )
     <pre>
-    <span class="pl-c">## Ejemplo</span>
-    <span class="pl-s1">x</span> <span class="pl-c1">=</span> <span class="pl-c1">4</span>
-    <span class="pl-s1">x</span> <span class="pl-c1">*=</span> <span class="pl-c1">3</span>
-    <span class="pl-en">print</span>(<span class="pl-s1">x</span>)
-    <span class="pl-s1">12</span>
+        <span class="pl-c">## Ejemplo</span>
+        <span class="pl-s1">x</span> <span class="pl-c1">=</span> <span class="pl-c1">4</span>
+        <span class="pl-s1">x</span> <span class="pl-c1">*=</span> <span class="pl-c1">3</span>
+        <span class="pl-en">print</span>(<span class="pl-s1">x</span>)
+        <span class="pl-s1">12</span>
     </pre>
 
 ## ¿Qué es una variable?
 Es una caja o lugar donde puedo guardar objetos: Números, textos, etc. Además, para asignar una variable debes usar siempre el signo **=**
-- Identificador de mi varibale: Puedes usar guiones abajo, números y letras. Pero NO puedes comenzar con un número y debe estar siempre en minúsculas. Ejemplo:  user = "James"
+- Identificador de mi varibale: Puedes usar guiones abajo, números y letras. Pero NO puedes comenzar con un número y debe estar siempre en minúsculas. 
+    <pre>
+        <span class="pl-c">## Ejemplo</span>
+        <span class="pl-s1">user</span> <span class="pl-c1">=</span> <span class="pl-c1">"James"</span>
+        <span class="pl-s1">y</span> <span class="pl-c1">*=</span> <span class="pl-c1">3</span>
+    </pre>
 
 ## ¿Cómo inicio Python desde la consola?
 ![image](https://user-images.githubusercontent.com/21746170/130538286-316869a2-ebec-4b5f-8aaf-eb4cded53561.png)
