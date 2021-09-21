@@ -1,6 +1,29 @@
-# Python 🐍
+# Python 🐍 una herramienta, no un reptil
+Python es una estrella brillante en el firmamento de programación, y el tiempo dedicado a aprender Python es una muy buena inversión.
+## ¿Qué es Python?
+Python es un lenguaje de programación de alto nivel, interpretado, orientado a objetos y de uso generalizado con semántica dinámica, que se utiliza para la programación de propósito general.
 ## ¿Por qué Python se llama Python? 
-El nombre del lenguaje proviene de la afición de su creador original Guido Van Rossum, por los humoristas británicos **Monty Python.**
+El nombre del lenguaje de programación Python proviene de una vieja serie de comedia de la BBC llamada Monty Python's Flying Circus, afición de su creador original *Guido Van Rossum*, por los humoristas británicos **Monty Python.** 
+## ¿Quién creó Python?
+Python fue creado por **Guido van Rossum**, nacido en 1956 en Haarlem, Países Bajos. Por supuesto, Guido van Rossum no desarrolló y evolucionó todos los componentes de Python.
+La velocidad con la que Python se ha extendido por todo el mundo es el resultado del trabajo continuo de miles de (muy a menudo anónimos) programadores, evaluadores, usuarios (muchos de ellos no son especialistas en TI) y entusiastas.
+Las circunstancias en las que se creó Python son un poco desconcertantes.
+    <pre>
+        <span class="pl-c"> Según Guido van Rossum:</span>
+        <span class="pl-s1">"En diciembre de 1989, estaba buscando un proyecto de programación de "pasatiempo" que me mantendría ocupado </span>
+        <span class="pl-s1">durante la semana de Navidad. Mi oficina(...) estaría cerrada, pero tenía una computadora en casa y no </span>
+        <span class="pl-s1">mucho más en mis manos. Decidí escribir un intérprete para el nuevolenguaje de scripting en el que había estado </span>
+        <span class="pl-s1">pensando últimamente: un descendiente de ABC que atraería a los hackers de Unix / C. Elegí  Python como un título</span>
+        <span class="pl-s1">de trabajo para el proyecto, estando en un estado de ánimo ligeramente irreverente (y un gran fanático de </span>
+        <span class="pl-s1">Monty Python's Flying Circus)."</span>
+    </pre> 
+## Los objetivos de Python
+En 1999, Guido van Rossum definió sus objetivos para Python:
+* Un **lenguaje fácil e intuitivo** tan poderoso como los de los principales competidores.
+* De **código abierto**, para que cualquiera pueda contribuir a su desarrollo.
+* El código que es tan **comprensible** como el inglés simple.
+* Adecuado para tareas cotidianas, permitiendo tiempos de desarrollo cortos.
+
 ## Aplicaciones que usan Python
 * Netflix
 * Google
@@ -44,10 +67,21 @@ Es una caja o lugar donde puedo guardar objetos: Números, textos, etc. Además,
         <span class="pl-s1">y</span> <span class="pl-c1">=</span> <span class="pl-c1">3</span>
     </pre>
 
+Si se desea nombrar una variable, se deben seguir las siguientes reglas:
+- El nombre de la variable debe de estar compuesto por MAYUSCULAS, minúsculas, dígitos, y el carácter _ (guion bajo).
+- El nombre de la variable debe comenzar con una letra.
+- El carácter guion bajo es considerado una letra.
+- Las mayúsculas y minúsculas se tratan de forma distinta (un poco diferente que en el mundo real - Alicia y ALICIA son el mismo nombre, pero en Python son dos nombres de variable distintos, subsecuentemente, son dos variables diferentes).
+- El nombre de las variables no pueden ser igual a alguna de las palabras reservadas de Python.
+## ¿Cuáles son los componentes o elementos de una variable en Python?
+*  Un nombre.
+*  Un valor (el contenido del contenedor).
 ## ¿Cómo inicio Python desde la consola?
 ![image](https://user-images.githubusercontent.com/21746170/130538286-316869a2-ebec-4b5f-8aaf-eb4cded53561.png)
-- En windows debes iniciar agregando : py
-- En linux debes iniciar agregando: python3
+- En windows debes iniciar agregando : **py**
+- En linux debes iniciar agregando: **python3**
+
+Python necesita que sus **archivos tengan la extensión .py**. El uso de la extensión .py estándar permite que el sistema operativo abra estos archivos correctamente.
 
 ## Tipos de datos
 ![image](https://user-images.githubusercontent.com/21746170/130538900-bde691f3-a98a-4e2d-9734-7a2c1adcf587.png)
@@ -70,3 +104,9 @@ Es una caja o lugar donde puedo guardar objetos: Números, textos, etc. Además,
    <span class="pl-s1">Trabaja & es_estudiante</span> 
    <span class="pl-en">Trabaja | es_estudiante</span>
 </pre>
+
+
+## Rivales de Python
+Python tiene dos competidores directos, con propiedades y predisposiciones comparables. Estos son:
+* Perl - un lenguaje de scripting originalmente escrito por Larry Wall.
+* Ruby - un lenguaje de scripting originalmente escrito por Yukihiro Matsumoto.
