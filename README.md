@@ -1,7 +1,7 @@
 # Python 🐍 una herramienta, no un reptil
-Python es una estrella brillante en el firmamento de programación, y el tiempo dedicado a aprender Python es una muy buena inversión.
+Python es una de las estrellas más brillantes en el firmamento de la programación, y el tiempo dedicado a aprenderlo es una muy buena inversión.
 ## ¿Qué es Python?
-Python es un lenguaje de programación de alto nivel, interpretado, orientado a objetos y de uso generalizado con semántica dinámica, que se utiliza para la programación de propósito general.
+Python es un lenguaje de programación de alto nivel, interpretado, orientado a objetos y de uso generalizado con semántica dinámica. Es un lenguaje de programación utilizado para el desarrollo de aplicaciones web, software, ciencia de datos y machine learning. Es eficiente, fácil de aprender y se puede ejecutar en diferentes plataformas.
 ## ¿Por qué Python se llama Python? 
 El nombre del lenguaje de programación Python proviene de una vieja serie de comedia de la BBC llamada Monty Python's Flying Circus, afición de su creador original *Guido Van Rossum*, por los humoristas británicos **Monty Python.** 
 ## ¿Quién creó Python?
@@ -111,3 +111,17 @@ Python necesita que sus **archivos tengan la extensión .py**. El uso de la exte
 Python tiene dos competidores directos, con propiedades y predisposiciones comparables. Estos son:
 * Perl - un lenguaje de scripting originalmente escrito por Larry Wall.
 * Ruby - un lenguaje de scripting originalmente escrito por Yukihiro Matsumoto.
+
+## "HOLA PYTHON"
+Una de las maneras más prácticas y sencillas de poder empezar en este mundo fascinante sin necesidad de tener la preocupación por la adquisición de un hardware de nivel es poder tener acceso a una cuenta gmail y aprovechar el servicio de Google Colab **https://colab.research.google.com/**
+<pre>
+    <span class="pl-s1">Google Colab (o Colaboratory) es una herramienta de Google que proporciona un entorno de Jupyter Notebook que no requiere configuración para su uso y se ejecuta completamente en la nube. Es un proyecto de investigación de uso gratuito lanzado por Google para fomentar la educación y la exploración en el área del aprendizaje automático.
+    </span>
+</pre>
+
+![image](https://github.com/xi0mara/aprendiendo_python/assets/21746170/1fdf044a-d1b5-43fb-8ee7-28c554f49faf)
+
+
+![image](https://github.com/xi0mara/aprendiendo_python/assets/21746170/5fff44fb-87ed-48d7-9c3d-814aa311670e)
+
+Nos volveremos a ver ... en una nueva aventura.
